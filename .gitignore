@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# hdf5
+*.h5
+*.hdf5
+
+# Data for training and testing
+test/
+train_data/VOC2007/Annotations
+train_data/VOC2007/ImageSets
+train_data/VOC2007/JPEGImages
